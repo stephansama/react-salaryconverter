@@ -14,7 +14,7 @@ const Footer = () => {
             </div>
             <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
                 <li className="ms-3">
-                    <a className="text-muted text-decoration-none" href="mailto:stephanrandle.dev@gmail.com?subject=Programming Inquiry">E-MAIL</a>
+                    <a className="text-muted text-decoration-none" href="mailto:stephanrandle.dev@gmail.com?subject=Programming Inquiry">E-mail</a>
                 </li>
                 <li className="ms-3">
                     <a className="text-muted text-decoration-none" href="https://github.com/stephansama">GitHub</a>
